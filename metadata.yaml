@@ -1,0 +1,29 @@
+_repo: The-Life-of-General-Francis-Marion_846
+creator:
+  author:
+    agent_name: Weems, M. L. (Mason Locke)
+    alias: Weems, Mason Locke
+    birthdate: 1759
+    deathdate: 1825
+    gutenberg_agent_id: '442'
+    url: http://www.gutenberg.org/2009/agents/442
+description: ''
+gutenberg_issued: '1997-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swamp Fox'
+- !lcsh 'Marion, Francis, 1732-1795'
+- !lcc 'E201'
+- !lcsh 'Georgia -- History -- Revolution, 1775-1783'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'South Carolina -- Militia -- Biography'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Campaigns'
+- !lcsh 'South Carolina -- History -- Revolution, 1775-1783'
+title: The Life of General Francis Marion
+url: http://www.gutenberg.org/ebooks/846
