@@ -1,5 +1,5 @@
 _repo: The-Life-of-General-Francis-Marion_846
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'South Carolina -- Militia -- Biography'
 - !lcsh 'United States -- History -- Revolution, 1775-1783 -- Campaigns'
 - !lcsh 'South Carolina -- History -- Revolution, 1775-1783'
+- GITenberg
 title: The Life of General Francis Marion
 url: http://www.gutenberg.org/ebooks/846
